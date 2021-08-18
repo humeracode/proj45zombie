@@ -1,2 +1,1 @@
-# proj45zombie
-with lib and images
+# Zombie-Shooter-stage-1
